@@ -1,0 +1,18 @@
+body {
+    background: #757F9A;
+    background: -webkit-linear-gradient(to right, #D7DDE8, #757F9A);
+    background: linear-gradient(to right, #D7DDE8, #757F9A);
+}
+/*#overflow {
+    width: 150px;
+    height: 150px;
+    overflow: auto;
+}*/
+img:hover {
+    /*float: right;*/
+    opacity: 0.33;
+}
+
+div p {
+    color: darkslategray;
+}

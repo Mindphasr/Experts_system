@@ -1,0 +1,12 @@
+body {
+    background: #11998e;
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+        background: linear-gradient(to right, #38ef7d, #11998e);
+}
+
+p {
+    max-width: 350px;
+    background-color: darkolivegreen;
+    margin: auto;
+    position: fixed;
+}
