@@ -1,12 +1,12 @@
 body {
-    background: #22ff82;
-    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+    background: #95ffc3;
+    background: -webkit-linear-gradient(to right, #4eed8b, #11998e);
         background: linear-gradient(to right, #38ef7d, #11998e);
 }
 
 p {
     max-width: 350px;
-    background-color: darkolivegreen;
+    background-color: rgb(152, 240, 0);
     margin: auto;
     position: fixed;
 }
